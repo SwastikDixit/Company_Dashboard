@@ -28,6 +28,9 @@ If the password entered is "SmartServTest@123," the user will be redirected to t
 ![Dashboard](https://github.com/SwastikDixit/Company_Dashboard/blob/main/company_dashboard.png)
 *Dashboard Page*
 
+![Forgey](https://github.com/SwastikDixit/Company_Dashboard/blob/main/forgot_password.png)
+*Forget password page*
+
 ## Technologies Used
 
 - HTML
